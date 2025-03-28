@@ -13,6 +13,7 @@ logs/
 
 # Build output
 dist/
+frontend/node_modules/
 build/
 
 # OS-specific files
